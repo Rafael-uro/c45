@@ -71,7 +71,7 @@ function draw(){
   vidao.shapeColor = "red";
   botao.shapeColor = "red";
   console.log(solo.depth)
- text("clique no botão vermlho para jogar", 400, 300
+ text("clique no botão vermlho para jogar", 400, 300)
   if (mousePressedOver (botao)){
     atacar()
     console.log("teste")
